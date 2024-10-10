@@ -5,6 +5,7 @@
 
 # Assignment Links
 - [Assignment 1](https://github.com/pidipidi/CS470_IAI_2024_Fall/tree/main/assignment_1)
+- [Assignment 2](https://github.com/pidipidi/CS470_IAI_2024_Fall/tree/main/assignment_2)
 
 # Quiz
 
